@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "journal-app-78a92": {
+      "hosting": {
+        "uploadfirebase": [
+          "journal-app-78a92"
+        ]
+      }
+    }
+  }
+}
